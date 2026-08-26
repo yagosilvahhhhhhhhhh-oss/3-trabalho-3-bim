@@ -1,0 +1,47 @@
+.perfil {
+    box-sizing: border-box;
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.contato {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 0;
+    border: 3px solid black;
+    color: blue;
+}
+
+.texto-inicial {
+    margin-bottom: 40px;
+    border: 1px solid black;
+}
+
+.imagem {
+    width: 160px;
+    height: 180px;
+    margin-top: 0;
+    border: 3px solid black;
+}
+
+.usuario,
+.profissao,
+.correio,
+.texto-final {
+    border: 1px solid black;
+}
+
+.item {
+    border: 3px solid black;
+}
+
+.um {
+    display: inline-block;
+    width: 30px;
+}
+
+.dois,
+.tres {
+    display: inline-block;
+}
