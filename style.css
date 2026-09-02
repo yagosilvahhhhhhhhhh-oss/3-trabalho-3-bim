@@ -3,6 +3,7 @@
     width: 500px;
     margin: 0 auto;
     border: 2px solid black;
+    height: 590px;
 }
 
 .contato {
@@ -38,10 +39,24 @@
 
 .um {
     display: inline-block;
-    width: 30px;
+    width: 80px;
+    height: 80px;
+
 }
 
-.dois,
+.dois{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    margin-left: -20px;
+}
 .tres {
     display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+
+.rodape{
+    border: 1px solid black;
+    margin: 10px 20px 30px 40px;
 }
